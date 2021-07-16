@@ -1,3 +1,11 @@
+# Huan's Comments:
+# Thank you for teaching an old man what fairy comments are with your project!
+# I had a good laugh with some of these.
+# I think you demonstrate a solid understanding of how conditionals work.
+# With more time, I would push you to consider using a dictionary to store statements
+# and a function that returns the statment based on user input, which is an idea
+# I think you were exploring from the code you commented out at the top. 😊
+
 #testing git
 # print("Are you a boy or a girl?")
 # gender = input()
